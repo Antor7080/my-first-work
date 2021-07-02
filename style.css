@@ -1,0 +1,21 @@
+.blog{
+    background-color: red;
+    font-size: 20px;
+    color:rgba(192, 243, 9, 0.822);
+    border: 15px solid black;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;  
+    padding: 30px;
+    
+}
+    .author-name{
+        color: black;
+    }
+    .blog-title{
+        text-align: center;
+
+    }
+    div p {
+        text-align: justify;
+    }
